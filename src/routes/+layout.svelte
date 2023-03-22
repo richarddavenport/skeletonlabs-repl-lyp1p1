@@ -15,6 +15,7 @@
 				<a href="/"> Home </a>
 				<a href="/super"> SuperForms </a>
 				<a href="/table" > Table </a>
+				<a href="/todo" > Todo </a>
 				<LightSwitch />
 			</svelte:fragment>
 		</AppBar>
